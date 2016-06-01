@@ -1,0 +1,28 @@
+Cagliari	be	city	
+Roma	be	city	
+Milano	be	city	
+Cagliari	population	149664	
+Roma	population	2638490	
+Milano	population	1245232	
+paper	use	printing	
+paper	use	drawing	
+paper	use	packaging	
+Harry Potter	be	fantastic novel	
+J. K. Rowling	write	Harry Potter	
+sun	shines	morning	
+Marck	went	in mountain	
+water	composition	H2O	
+Iron	be	metal	
+Iron	be	chemical element	
+Iron	symbol	Fe	
+Iron	atomic number	26	
+Silver	be	metal	
+Silver	Element category	transition metal	
+Silver	symbol	Ag	
+Silver	Melting point	961.78 °C	
+Gold	be	metal	
+Gold	Element category	transition metal	
+Gold	symbol	Au	
+Gold	Melting point	1064.18 °C	
+Bill Gates	found	Microsoft	
+Steve Jobs	found	Apple	
